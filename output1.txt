@@ -1,0 +1,40 @@
+   Library included
+  main function begins
+
+Its integer
+ 
+2
+a 
+1
+b 
+1
+c 
+1
+d
+Valid Declaration
+
+its string
+ 
+2
+n 
+1
+n 
+1
+n
+Valid Declaration
+  5
+       5
+/*precedence check*/    10
+13
+   13
+/*if-else*/                   else: 5
+/*loop*/               nope
+nope
+nope
+nope
+nope
+nope
+nope
+          helloworld
+     world
+         helloworld
